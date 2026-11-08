@@ -22,4 +22,4 @@ Turncress runs offline without accounts, ads, analytics, third-party SDKs or req
 GG007 icon byte-equal to original. Menu studio https://ilanis-agent.github.io/gg-007-gaming/ and privacy.
 
 ## Preservation and websites
-Complete source and APK privately preserved at https://files.instinct.com/cr1k54a11qnd-turncress-source-archive, including exact cumulative 166-card studio and published catalog/studio sources/updater. Repository https://github.com/iLanis-agent/turncress holds README only; full Git source commit pending. Both website publications checked separately. No Pages settings change or Play rollout. November 8, 2026.
+Complete source and APK privately preserved at https://files.instinct.com/cr1k54a11qnd-turncress-source-archive, including exact cumulative 167-card studio and published catalog/studio sources/updater. Repository https://github.com/iLanis-agent/turncress holds README only; full Git source commit pending. Both website publications checked separately. No Pages settings change or Play rollout. November 8, 2026.
